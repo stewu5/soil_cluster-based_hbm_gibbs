@@ -1,6 +1,6 @@
 # soil_cluster-based_hbm_gibbs
 
-**This repository includes two jupyter notebooks that contain codes for a 2D and 3D synthetic test for a hierarchical Bayesian model (HBM) based on Gaussian likelihoods. Gibbs sampling is used as the basic sampling scheme for the HBM designed in Ching et al. 2021, which we called HBM-Gibbs. We tested the ability of a cluster-based HBM algorithm to capture the multimodal hyperparameter distribution efficiently. The codes generate results in the manuscript titled "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model", which is submitted to the Journal of Engineering Mechanics for review on Dec 10, 2021.**
+**This repository includes two jupyter notebooks that contain codes of a 2D and 3D synthetic test for a hierarchical Bayesian model (HBM) based on Gaussian likelihoods. Gibbs sampling is used as the basic sampling scheme for the HBM designed in Ching et al. 2021, which we called HBM-Gibbs. We tested the ability of a cluster-based HBM algorithm to capture the multimodal hyperparameter distribution efficiently. The codes generate results in the manuscript titled "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model", which is submitted to the Journal of Engineering Mechanics for review on Dec 10, 2021.**
 
 ## Publication
 
