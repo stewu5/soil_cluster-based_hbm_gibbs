@@ -1,11 +1,11 @@
 # soil_cluster-based_hbm_gibbs
 
-**This repository includes two jupyter notebooks that contain codes of a 2D and 3D synthetic test for a hierarchical Bayesian model (HBM) based on Gaussian likelihoods. Gibbs sampling is used as the basic sampling scheme for the HBM designed in Ching et al. 2021, which we called HBM-Gibbs. We tested the ability of a cluster-based HBM algorithm combined with HBM-Gibbs to capture the multimodal hyperparameter distribution efficiently. The codes generate results in the manuscript titled "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model", which is submitted to the Structural Safety for review (last update: 2022.04.15).**
+**This repository includes two jupyter notebooks that contain codes of a 2D and 3D synthetic test for a hierarchical Bayesian model (HBM) based on Gaussian likelihoods. Gibbs sampling is used as the basic sampling scheme for the HBM designed in Ching et al. 2021, which we called HBM-Gibbs. We tested the ability of a cluster-based HBM algorithm combined with HBM-Gibbs to capture the multimodal hyperparameter distribution efficiently. The codes generate results in the manuscript titled "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model", which is submitted to the Structural Safety for review (last update: 2022.06.20).**
 
 ## Publication
 
 Corresponding paper (under review):
-1. Wu, S., Ching, J., and Phoon, K.-K. (2022). "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model." Journal of Engineering Mechanics, under review.
+1. Wu, S., Ching, J., and Phoon, K.-K. (2022). "Quasi-site-specific soil property prediction using a cluster-based Hierarchical Bayesian Model." Journal of Engineering Mechanics, accepted.
 
 Two related papers are:
 1. Ching, J., Wu, S., and Phoon, K.-K. (2021). "Constructing quasi-site-specific multivariate probability distribution using hierarchical bayesian model." Journal of Engineering Mechanics, 147(10), 04021069.
